@@ -29,6 +29,7 @@ div img {
   cursor: pointer;
 }
 
+
 p,
 li {
   font-size: 16px;
@@ -36,11 +37,17 @@ li {
   letter-spacing: 1px;
 }
 
+p a {
+  text-decoration: none;
+  cursor: pointer;
+}
+
 /*--- footer --- */
 .icon-source {
   font-size: 14px;
   margin-top: 50px;
 }
+
 .icon-icons {
   vertical-align: baseline;
   width: 20px;

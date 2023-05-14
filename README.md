@@ -3,25 +3,25 @@
 This repository contains mini-projects I made through **[Sayna][]**\'s course\.   
 Here is a list and details :  
 
-- ### Business Card #  
+- ### [Business Card][1] #  
 
     It is an example of business card\. Very simple and easy\.  
 
 ---
 
-- ### Cool Box #
+- ### [Cool Box][2] #
 
     Excellent exercise to get acquainted with \"box\-shadow\"\.
 
 ---
 
-- ### Fancy Letter #
+- ### [Fancy Letter][3] #
 
     A personalized letter\. Only using \"background\" propriety\.
 
 ---
 
-- ### Mozilla page #
+- ### [Mozilla page][4] #
 
     A simple exercise with Javascript \(using localStorage\)\. It has two functions\.  
     - Changing the Mozilla's logo by clicking on it\.
@@ -30,4 +30,37 @@ Here is a list and details :
 
 ---  
 
+- ### [Flex Box][5] #   
+
+    A few exercises showing how **Flex Box** works.   
+
+---
+
+- ### [Float][6] #
+
+    How does float work? And problems you may see using this proprety.  
+
+---  
+
+- ### [Position][7] #  
+
+    You can use the "position" proprety to specify how an element should be  
+positioned on a web page.  
+
+---  
+
+- ### [MultiCol][8] #  
+
+    This is the easiest way to put elements side by side.  
+
+---  
+
 [Sayna]: https://www.sayna.io "Sayna's official website"  
+[1]: https://github.com/ERlCA/SAYNA-MiniProjects/tree/main/carte-visite
+[2]: https://github.com/ERlCA/SAYNA-MiniProjects/tree/main/cool-box
+[3]: https://github.com/ERlCA/SAYNA-MiniProjects/tree/main/fancy-letterHeaded-paper
+[4]: https://github.com/ERlCA/SAYNA-MiniProjects/tree/main/mozilla-page
+[5]: https://github.com/ERlCA/SAYNA-MiniProjects/tree/main/flex-box
+[6]: https://github.com/ERlCA/SAYNA-MiniProjects/tree/main/float
+[7]: https://github.com/ERlCA/SAYNA-MiniProjects/tree/main/position
+[8]: https://github.com/ERlCA/SAYNA-MiniProjects/tree/main/multi-col
