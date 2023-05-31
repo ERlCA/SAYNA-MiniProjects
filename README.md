@@ -54,6 +54,11 @@ positioned on a web page.
     This is the easiest way to put elements side by side.  
 
 ---  
+- ### [Number Guessing Game][9] #   
+
+    An introduction to Javascript, a simple guessing game. The user guesses a random number between 1-100.   
+
+---   
 
 [Sayna]: https://www.sayna.io "Sayna's official website"  
 [1]: https://github.com/ERlCA/SAYNA-MiniProjects/tree/main/carte-visite
@@ -64,3 +69,4 @@ positioned on a web page.
 [6]: https://github.com/ERlCA/SAYNA-MiniProjects/tree/main/float
 [7]: https://github.com/ERlCA/SAYNA-MiniProjects/tree/main/position
 [8]: https://github.com/ERlCA/SAYNA-MiniProjects/tree/main/multi-col
+[9]: https://github.com/ERlCA/SAYNA-MiniProjects/tree/main/number-guessing-game
