@@ -64,7 +64,9 @@ positioned on a web page.
 
     A story generator using some simple JS' methods.   
 
-[![Silly story](https://github.com/ERlCA/SAYNA-MiniProjects/tree/main/silly-story/img/silly-story-page-screenshot.png)][20]   
+<a href="https://github.com/ERlCA/SAYNA-MiniProjects/blob/main/silly-story/img/silly-story-page-screenshot.png">
+  <img src="./silly-story/img/silly-story-page-screenshot.png" width: 500px />
+</a>   
 
 ---   
 
@@ -80,4 +82,4 @@ positioned on a web page.
 [9]: https://github.com/ERlCA/SAYNA-MiniProjects/tree/main/number-guessing-game
 [10]: https://github.com/ERlCA/SAYNA-MiniProjects/tree/main/silly-story
 
-[20]: https://github.com/ERlCA/SAYNA-MiniProjects/tree/main/silly-story/img/silly-story-page-screenshot.png
+[image]: https://github.com/ERlCA/SAYNA-MiniProjects/blob/main/silly-story/img/silly-story-page-screenshot.png
