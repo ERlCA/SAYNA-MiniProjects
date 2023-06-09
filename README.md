@@ -60,6 +60,14 @@ positioned on a web page.
 
 ---   
 
+- ### [Silly Story][10] #   
+
+    A story generator using some simple JS' methods.   
+
+[![Silly story](https://github.com/ERlCA/SAYNA-MiniProjects/tree/main/silly-story/img/silly-story-page-screenshot.png)][20]   
+
+---   
+
 [Sayna]: https://www.sayna.io "Sayna's official website"  
 [1]: https://github.com/ERlCA/SAYNA-MiniProjects/tree/main/carte-visite
 [2]: https://github.com/ERlCA/SAYNA-MiniProjects/tree/main/cool-box
@@ -70,3 +78,6 @@ positioned on a web page.
 [7]: https://github.com/ERlCA/SAYNA-MiniProjects/tree/main/position
 [8]: https://github.com/ERlCA/SAYNA-MiniProjects/tree/main/multi-col
 [9]: https://github.com/ERlCA/SAYNA-MiniProjects/tree/main/number-guessing-game
+[10]: https://github.com/ERlCA/SAYNA-MiniProjects/tree/main/silly-story
+
+[20]: https://github.com/ERlCA/SAYNA-MiniProjects/tree/main/silly-story/img/silly-story-page-screenshot.png

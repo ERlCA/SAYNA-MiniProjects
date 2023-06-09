@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Silly story generator</title>
+
+  </head>
+
+  <body>
+    <main>
+      <div>
+        <input id="customname" type="text"
+          placeholder="Enter a name (optional)" />
+        <hr>
+      </div>
+      <div class="radio-form">
+        <div>
+          <label for="us">US</label><input id="us" type="radio" name="ukus"
+            value="us" checked />
+        </div>
+        <div>
+          <label for="uk">UK</label><input id="uk" type="radio" name="ukus"
+            value="uk" />
+        </div>
+      </div>
+      <div>
+        <button class="randomize">Generate random story</button>
+      </div>
+      <!-- Thanks a lot to Willy Aguirre for his help with the code for this assessment -->
+      <p class="story"></p>
+      <img class="monkey" src="./img/monkey.png" alt="little monkey laughing"
+        title="drawing monkey" />
+      <p><a href="http://www.freepik.com" target="_blank">Images designed by
+          brgfx
+          /
+          Freepik</a></p>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>
