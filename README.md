@@ -62,7 +62,7 @@ positioned on a web page.
 
 - ### [Silly Story][10] #   
 
-    A story generator using some simple JS' methods.   
+    A story generator using some simple JS' methods. Here's a screenshot of how it looks like.   
 
 <a href="https://github.com/ERlCA/SAYNA-MiniProjects/blob/main/silly-story/img/silly-story-page-screenshot.png">
   <img src="./silly-story/img/silly-story-page-screenshot.png" width: 500px />
